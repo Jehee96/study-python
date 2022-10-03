@@ -1,9 +1,6 @@
 # 5.1.1) 리스트 메소드
 
 # append() /리스트의 끝에 새 요소를 추가한다.
-from os import remove
-
-
 a = [1, 2, 3]
 a.append(6)
 print(a)  # >> [1, 2, 3, 6]
