@@ -103,9 +103,9 @@ print('공부 시작')
 ```
                                      False
 if 조건1:                        if  ──────→  elif ─────────  ┐
-else:                  True      ↓        True  ↓           ↓  False
+else:                  True      ↓        True  ↓             ↓  False
    저 문장                     이 문장        저 문장      그 문장
-다음 문장                         ↓             │             │
+다음 문장                        ↓              │             │
                               다음 문장 ←───────┴─────────────┘
    이 문장
 elif 조건2:
