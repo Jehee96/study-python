@@ -33,6 +33,7 @@ for x in range(10):
 ex_02)
 for x in range(10):
    print(f'팔 벌려 뛰기 {x}회')
+   
 > 팔 벌려 뛰기 0회
   팔 벌려 뛰기 1회
   팔 벌려 뛰기 2회
